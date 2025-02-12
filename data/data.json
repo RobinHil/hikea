@@ -1,0 +1,739 @@
+{
+    "cuisine": [
+        {
+            "description_article": "Cet ensemble de casseroles est indispensable pour toutes vos préparations culinaires. Fabriquées en acier inoxydable de haute qualité, ces casseroles sont durables et faciles à nettoyer.",
+            "largeur_cm": 54,
+            "longueur_cm": 54,
+            "nom_article": "Calica",
+            "nom_designer": "Pierre Lefebvre",
+            "numero_article": "789.123.456",
+            "photo_article": "Calica.jpg",
+            "poids_kg": 3,
+            "profondeur_cm": 60,
+            "sous-formulaire": [
+                {
+                    "finition": "acier inoxydable",
+                    "nb_dispo": 15,
+                    "prix_euros": 129
+                },
+                {
+                    "finition": "cuivre",
+                    "nb_dispo": 10,
+                    "prix_euros": 299
+                }
+            ]
+        },
+        {
+            "description_article": "Ce service de verres élégant est parfait pour toutes les occasions. Il comprend 12 verres à vin, 12 verres à eau et 12 flûtes à champagne, tous fabriqués en cristal de qualité ou verre transparent.",
+            "largeur_cm": 50,
+            "longueur_cm": 50,
+            "nom_article": "Vlaga",
+            "nom_designer": "Sophie Dubois",
+            "numero_article": "456.321.789",
+            "photo_article": "Vlaga.jpg",
+            "poids_kg": 6,
+            "profondeur_cm": 42,
+            "sous-formulaire": [
+                {
+                    "finition": "cristal",
+                    "nb_dispo": 8,
+                    "prix_euros": 299
+                },
+                {
+                    "finition": "verre transparent",
+                    "nb_dispo": 5,
+                    "prix_euros": 149
+                }
+            ]
+        },
+        {
+            "description_article": "Cet cuisine tout équipé est idéal pour préparer vos meilleurs mets exquis en famille. Existe en deux coloris différents",
+            "largeur_cm": 200,
+            "longueur_cm": 200,
+            "nom_article": "Exeina",
+            "nom_designer": "Phillipot Chabize",
+            "numero_article": "199.153.476",
+            "photo_article": "Exeina.jpg",
+            "poids_kg": 1754,
+            "profondeur_cm": 80,
+            "sous-formulaire": [
+                {
+                    "finition": "blanc neige",
+                    "nb_dispo": 2,
+                    "prix_euros": 4789
+                },
+                {
+                    "finition": "rouge rétro",
+                    "nb_dispo": 1,
+                    "prix_euros": 5019
+                }
+            ]
+        },
+        {
+            "description_article": "Ce set de quatres casseroles et deux poêles anti adhésif vous permettront de profiter de vos talents culinaires pour des petits ou grands plaisir. En acier inoxydable.",
+            "largeur_cm": 45,
+            "longueur_cm": 30,
+            "nom_article": "Tafla",
+            "nom_designer": "Karole Hadge",
+            "numero_article": "956.591.755",
+            "photo_article": "Tafla.jpg",
+            "poids_kg": 20,
+            "profondeur_cm": 20,
+            "sous-formulaire": [
+                {
+                    "finition": "acier inoxydable",
+                    "nb_dispo": 5,
+                    "prix_euros": 80
+                }
+            ]
+        }
+    ],
+    "decoration": [
+        {
+            "description_article": "Ce magnifique miroir mural Luna ajoutera une touche de sophistication à n'importe quelle pièce. Son cadre en métal doré lui confère un charme contemporain.",
+            "largeur_cm": 80,
+            "longueur_cm": 80,
+            "nom_article": "Luna",
+            "nom_designer": "Émilie Berger",
+            "numero_article": "142.536.789",
+            "photo_article": "Luna.jpg",
+            "poids_kg": 10,
+            "profondeur_cm": 8,
+            "sous-formulaire": [
+                {
+                    "finition": "doré",
+                    "nb_dispo": 12,
+                    "prix_euros": 299
+                },
+                {
+                    "finition": "argenté",
+                    "nb_dispo": 8,
+                    "prix_euros": 329
+                }
+            ]
+        },
+        {
+            "description_article": "Ce vase en verre soufflé à la main est un véritable bijou pour votre intérieur. Son design élégant en fait un objet de décoration unique.",
+            "largeur_cm": 20,
+            "longueur_cm": 20,
+            "nom_article": "Blarduk",
+            "nom_designer": "Alexandre Dubois",
+            "numero_article": "789.654.321",
+            "photo_article": "Blarduk.jpg",
+            "poids_kg": 2,
+            "profondeur_cm": 30,
+            "sous-formulaire": [
+                {
+                    "finition": "émeraude",
+                    "nb_dispo": 20,
+                    "prix_euros": 79
+                },
+                {
+                    "finition": "transparent",
+                    "nb_dispo": 15,
+                    "prix_euros": 69
+                }
+            ]
+        },
+        {
+            "description_article": "Ce vase unique en son genre vous permettra de mettre des fleurs de tout styles. Sa couleur marbré le dote d'un charme merveilleux.",
+            "largeur_cm": 50,
+            "longueur_cm": 20,
+            "nom_article": "Vasol",
+            "nom_designer": "Evan Massol",
+            "numero_article": "174.436.259",
+            "photo_article": "Vasol.jpg",
+            "poids_kg": 20,
+            "profondeur_cm": 10,
+            "sous-formulaire": [
+                {
+                    "finition": "marbré",
+                    "nb_dispo": 4,
+                    "prix_euros": 159
+                },
+                {
+                    "finition": "argenté",
+                    "nb_dispo": 8,
+                    "prix_euros": 159
+                }
+            ]
+        },
+        {
+            "description_article": "Ce magnifique tableau de l'époque de la Renaissance vous enivre de rêves et de spiritualité mélant douceur et passion. Cette pièce de décoration est unique en son genre",
+            "largeur_cm": 40,
+            "longueur_cm": 100,
+            "nom_article": "Blure",
+            "nom_designer": "Léon de Vainsi",
+            "numero_article": "545.124.941",
+            "photo_article": "Blure.jpg",
+            "poids_kg": 2,
+            "profondeur_cm": 4,
+            "sous-formulaire": [
+                {
+                    "finition": "aquarelle",
+                    "nb_dispo": 1,
+                    "prix_euros": 439
+                }
+            ]
+        }
+    ],
+    "eclairage": [
+        {
+            "description_article": "Cette lampe de bureau LED offre un éclairage puissant et réglable pour une meilleure productivité. Elle dispose d'un bras flexible et d'un design moderne.",
+            "largeur_cm": 12,
+            "longueur_cm": 21,
+            "nom_article": "Leidlit",
+            "nom_designer": "Jacques Grilar",
+            "numero_article": "532.289.017",
+            "photo_article": "Leidlit.jpg",
+            "poids_kg": 0.859,
+            "profondeur_cm": 47,
+            "sous-formulaire": [
+                {
+                    "finition": "noir",
+                    "nb_dispo": 8,
+                    "prix_euros": 39.99
+                },
+                {
+                    "finition": "chrome",
+                    "nb_dispo": 5,
+                    "prix_euros": 44.99
+                },
+                {
+                    "finition": "blanc",
+                    "nb_dispo": 5,
+                    "prix_euros": 39.99
+                }
+            ]
+        },
+        {
+            "description_article": "Cette élégante applique murale au design contemporain illuminera votre intérieur avec style. Son abat-jour en verre dépoli diffuse une lumière douce et chaleureuse.",
+            "largeur_cm": 19,
+            "longueur_cm": 19,
+            "nom_article": "Murelar",
+            "nom_designer": "Miriam Laroute",
+            "numero_article": "638.124.795",
+            "photo_article": "Murelar.jpg",
+            "poids_kg": 1.02,
+            "profondeur_cm": 22,
+            "sous-formulaire": [
+                {
+                    "finition": "noir",
+                    "nb_dispo": 16,
+                    "prix_euros": 29.99
+                },
+                {
+                    "finition": "gris",
+                    "nb_dispo": 15,
+                    "prix_euros": 29.99
+                }
+            ]
+        },
+        {
+            "description_article": "Cette suspension industrielle apportera une touche vintage à votre espace avec son abat-jour en métal et son câble tressé. Idéale pour les cuisines et les salles à manger.",
+            "largeur_cm": 27,
+            "longueur_cm": 27,
+            "nom_article": "Instrilla",
+            "nom_designer": "Gilbert Montagnard",
+            "numero_article": "759.482.627",
+            "photo_article": "Instrilla.jpg",
+            "poids_kg": 1.2,
+            "profondeur_cm": 21,
+            "sous-formulaire": [
+                {
+                    "finition": "noir",
+                    "nb_dispo": 4,
+                    "prix_euros": 59.99
+                },
+                {
+                    "finition": "cuivre",
+                    "nb_dispo": 2,
+                    "prix_euros": 99.99
+                }
+            ]
+        },
+        {
+            "description_article": "Cette lampe de bureau LED offre un éclairage puissant et réglable pour toute situation. Son design aux couleurs de la ville de Londres rappelera aux plus anciens la mode des années 2010!",
+            "largeur_cm": 12,
+            "longueur_cm": 21,
+            "nom_article": "London",
+            "nom_designer": "Stéphane Couenne",
+            "numero_article": "112.289.017",
+            "photo_article": "London.jpg",
+            "poids_kg": 1.03,
+            "profondeur_cm": 35,
+            "sous-formulaire": [
+                {
+                    "finition": "noir",
+                    "nb_dispo": 8,
+                    "prix_euros": 39.99
+                },
+                {
+                    "finition": "chrome",
+                    "nb_dispo": 5,
+                    "prix_euros": 44.99
+                },
+                {
+                    "finition": "rouge",
+                    "nb_dispo": 4,
+                    "prix_euros": 39.99
+                },
+                {
+                    "finition": "bleu",
+                    "nb_dispo": 3,
+                    "prix_euros": 30.99
+                }
+            ]
+        },
+        {
+            "description_article": "Cette magnifique lampe sur pieds au design japonais traditionnel apportera une touche d'unicité dans votre pièce. Elle saura illuminer votre vie.",
+            "largeur_cm": 45,
+            "longueur_cm": 30,
+            "nom_article": "Chaina",
+            "nom_designer": "Rémy Skodge",
+            "numero_article": "177.241.489",
+            "photo_article": "Chaina.jpg",
+            "poids_kg": 5.45,
+            "profondeur_cm": 22,
+            "sous-formulaire": [
+                {
+                    "finition": "japonais",
+                    "nb_dispo": 2,
+                    "prix_euros": 87.49
+                }
+            ]
+        },
+        {
+            "description_article": "Cette petite lampe de bureau cubique au design très épuré et à la couleur changeable permettra à vos enfants de réviser leurs cours dans des conditions favorables à l'apprentissage.Télécommande pour changer de couleur comprise. Plusieurs coloris de pieds en bois disponibles.",
+            "largeur_cm": 20,
+            "longueur_cm": 20,
+            "nom_article": "Voltedge",
+            "nom_designer": "Donaldo Trompette",
+            "numero_article": "129.414.697",
+            "photo_article": "Voltedge.jpg",
+            "poids_kg": 0.54,
+            "profondeur_cm": 20,
+            "sous-formulaire": [
+                {
+                    "finition": "pied en acajou",
+                    "nb_dispo": 4,
+                    "prix_euros": 59.99
+                },
+                {
+                    "finition": "pied en sapin",
+                    "nb_dispo": 8,
+                    "prix_euros": 49.99
+                },
+                {
+                    "finition": "edition limité",
+                    "nb_dispo": 3,
+                    "prix_euros": 88.93
+                }
+            ]
+        }
+    ],
+    "literie": [
+        {
+            "description_article": "Ce matelas Stigla offre un soutien optimal et un confort exceptionnel pour des nuits réparatrices. Sa mousse à mémoire de forme s'adapte à la forme de votre corps.",
+            "largeur_cm": 160,
+            "longueur_cm": 200,
+            "nom_article": "Stigla",
+            "nom_designer": "David Leclerc",
+            "numero_article": "987.654.321",
+            "photo_article": "Stigla.jpg",
+            "poids_kg": 35,
+            "profondeur_cm": 50,
+            "sous-formulaire": [
+                {
+                    "finition": "souple",
+                    "nb_dispo": 10,
+                    "prix_euros": 749
+                },
+                {
+                    "finition": "semi-ferme",
+                    "nb_dispo": 7,
+                    "prix_euros": 749
+                },
+                {
+                    "finition": "ferme",
+                    "nb_dispo": 14,
+                    "prix_euros": 749
+                }
+            ]
+        },
+        {
+            "description_article": "Cette couette Dimal vous enveloppera de chaleur et de confort. Son garnissage en duvet et plumes naturels vous offrira des nuits douces et agréables.",
+            "largeur_cm": 60,
+            "longueur_cm": 60,
+            "nom_article": "Dimal",
+            "nom_designer": "Émilie Martin",
+            "numero_article": "321.789.654",
+            "photo_article": "Dimal.jpg",
+            "poids_kg": 2.5,
+            "profondeur_cm": 50,
+            "sous-formulaire": [
+                {
+                    "finition": "couette d'été",
+                    "nb_dispo": 12,
+                    "prix_euros": 99
+                },
+                {
+                    "finition": "couette d'hiver",
+                    "nb_dispo": 8,
+                    "prix_euros": 129
+                }
+            ]
+        },
+        {
+            "description_article": "Ce matelas pour lit double de type King Size offre un confort exceptionnel donnant l'impression de reposer de manière agréable son corps, dans les nuages. Sa fermeté vous offrira de belles nuits réparatrices. pour des nuits réparatrices.",
+            "largeur_cm": 200,
+            "longueur_cm": 250,
+            "nom_article": "Koengl",
+            "nom_designer": "David Thomsen",
+            "numero_article": "727.154.121",
+            "photo_article": "Koengl.jpg",
+            "poids_kg": 275,
+            "profondeur_cm": 50,
+            "sous-formulaire": [
+                {
+                    "finition": "ferme",
+                    "nb_dispo": 10,
+                    "prix_euros": 749
+                }
+            ]
+        },
+        {
+            "description_article": "Ce lit Fred vous enveloppera de chaleur et de confort. Son garnissage en duvet et plumes naturels vous offrira des nuits douces et agréables.",
+            "largeur_cm": 60,
+            "longueur_cm": 60,
+            "nom_article": "Fred",
+            "nom_designer": "Émilie Martin",
+            "numero_article": "321.789.654",
+            "photo_article": "Fred.jpg",
+            "poids_kg": 2.5,
+            "profondeur_cm": 50,
+            "sous-formulaire": [
+                {
+                    "finition": "couette d'été",
+                    "nb_dispo": 12,
+                    "prix_euros": 99
+                },
+                {
+                    "finition": "couette d'hiver",
+                    "nb_dispo": 8,
+                    "prix_euros": 129
+                }
+            ]
+        }
+    ],
+    "meuble": [
+        {
+            "description_article": "Cette magnifique table basse saura apporter une touche d'élégance à votre espace de vie. Son design contemporain et sa finition en chêne clair en font un choix parfait pour tout intérieur moderne.",
+            "largeur_cm": 60,
+            "longueur_cm": 80,
+            "nom_article": "Nurgab",
+            "nom_designer": "Gérard Dupont",
+            "numero_article": "234.232.493",
+            "photo_article": "Nurgab.jpg",
+            "poids_kg": 32,
+            "profondeur_cm": 45,
+            "sous-formulaire": [
+                {
+                    "finition": "chêne clair",
+                    "nb_dispo": 15,
+                    "prix_euros": 799
+                },
+                {
+                    "finition": "noir",
+                    "nb_dispo": 20,
+                    "prix_euros": 849
+                }
+            ]
+        },
+        {
+            "description_article": "Ce sublime bureau saura vous combler et accueillir tous vos travaux pour vous simplifier la tâche dans votre dur labeur. Avec ses 3 tiroirs et ses trous passe-câbles, il est pratique et esthétique à la fois.",
+            "largeur_cm": 82,
+            "longueur_cm": 201,
+            "nom_article": "Glabeun",
+            "nom_designer": "Julien Argenté",
+            "numero_article": "362.482.990",
+            "photo_article": "Glabeun.jpg",
+            "poids_kg": 53,
+            "profondeur_cm": 150,
+            "sous-formulaire": [
+                {
+                    "finition": "chêne clair",
+                    "nb_dispo": 6,
+                    "prix_euros": 999
+                },
+                {
+                    "finition": "pin sombre",
+                    "nb_dispo": 3,
+                    "prix_euros": 1099
+                },
+                {
+                    "finition": "blanc",
+                    "nb_dispo": 1,
+                    "prix_euros": 839
+                },
+                {
+                    "finition": "noir",
+                    "nb_dispo": 4,
+                    "prix_euros": 839
+                }
+            ]
+        },
+        {
+            "description_article": "Ce confortable canapé d'angle est parfait pour se détendre en famille ou entre amis. Son revêtement en tissu gris anthracite et ses coussins moelleux ajoutent une touche de douceur à votre salon.",
+            "largeur_cm": 160,
+            "longueur_cm": 220,
+            "nom_article": "Sofia",
+            "nom_designer": "Sophie Martin",
+            "numero_article": "543.654.342",
+            "photo_article": "Sofia.jpg",
+            "poids_kg": 85,
+            "profondeur_cm": 90,
+            "sous-formulaire": [
+                {
+                    "finition": "gris anthracite",
+                    "nb_dispo": 8,
+                    "prix_euros": 1499
+                },
+                {
+                    "finition": "beige",
+                    "nb_dispo": 5,
+                    "prix_euros": 1599
+                },
+                {
+                    "finition": "vert",
+                    "nb_dispo": 7,
+                    "prix_euros": 1399
+                }
+            ]
+        },
+        {
+            "description_article": "Cette table saura apporter bonheur et élégance à votre espace de vie. Son design moderne et sa finition en bois d'acajou en font un choix parfait pour tout intérieur traditionnelle.",
+            "largeur_cm": 100,
+            "longueur_cm": 160,
+            "nom_article": "Trohst",
+            "nom_designer": "Jean de la rivière",
+            "numero_article": "276.432.453",
+            "photo_article": "Trohst.jpg",
+            "poids_kg": 54,
+            "profondeur_cm": 5,
+            "sous-formulaire": [
+                {
+                    "finition": "bois d'acajou'",
+                    "nb_dispo": 10,
+                    "prix_euros": 499
+                },
+                {
+                    "finition": "noir",
+                    "nb_dispo": 5,
+                    "prix_euros": 549
+                }
+            ]
+        },
+        {
+            "description_article": "Ce confortable fauteuil de toute couleur est idéal pour profiter de ses proches en toute sérénité. Son revêtement en tissu de couleur arc en ciel et un coussin moelleu ajoute une touche de délicatesse à votre logement.",
+            "largeur_cm": 100,
+            "longueur_cm": 80,
+            "nom_article": "Rehtre",
+            "nom_designer": "Emmanuel Macaron",
+            "numero_article": "123.474.238",
+            "photo_article": "Rehtre.jpg",
+            "poids_kg": 70,
+            "profondeur_cm": 45,
+            "sous-formulaire": [
+                {
+                    "finition": "arc-en-ciel",
+                    "nb_dispo": 5,
+                    "prix_euros": 399
+                },
+                {
+                    "finition": "mauve",
+                    "nb_dispo": 3,
+                    "prix_euros": 599
+                },
+                {
+                    "finition": "bordeau",
+                    "nb_dispo": 1,
+                    "prix_euros": 459
+                }
+            ]
+        },
+        {
+        "description_article": "Ce confortable canapé d'angle saura raviver de vive couleurs dans votre salon et l'éclaircira de milles feux. Son revêtement en tissu de couleurs claires et ses coussins moelleux ajoutent une touche de délicatesse à votre logement. 7 personnes max. Conseillé.",
+        "largeur_cm": 300,
+        "longueur_cm": 200,
+        "nom_article": "Steveo",
+        "nom_designer": "Zvetlana Abrakovidje",
+        "numero_article": "231.222.985",
+        "photo_article": "Steveo.jpg",
+        "poids_kg": 1048.45,
+        "profondeur_cm": 52,
+        "sous-formulaire": [
+          {
+            "finition": "blanc",
+            "nb_dispo": 5,
+            "prix_euros": 878.99
+          },
+          {
+            "finition": "bleu pastel",
+            "nb_dispo": 7,
+            "prix_euros": 878.99
+          },
+          {
+            "finition": "ecarlate",
+            "nb_dispo": 1,
+            "prix_euros": 1121.99
+          },
+          {
+            "finition": "vert kaki",
+            "nb_dispo": 3,
+            "prix_euros": 1004.99
+          }
+        ]
+      }
+    ],
+    "rangement": [
+        {
+            "description_article": "Cette spacieuse armoire Bella est parfaite pour organiser vos vêtements et accessoires. Ses portes coulissantes en miroir apportent une touche de modernité à votre chambre à coucher.",
+            "largeur_cm": 180,
+            "longueur_cm": 200,
+            "nom_article": "Bella",
+            "nom_designer": "Julien Martel",
+            "numero_article": "987.123.456",
+            "photo_article": "Bella.jpg",
+            "poids_kg": 150,
+            "profondeur_cm": 60,
+            "sous-formulaire": [
+                {
+                    "finition": "blanc",
+                    "nb_dispo": 6,
+                    "prix_euros": 1399
+                },
+                {
+                    "finition": "chêne",
+                    "nb_dispo": 10,
+                    "prix_euros": 1499
+                }
+            ]
+        },
+        {
+            "description_article": "Cette élégante étagère en bois massif est à la fois fonctionnelle et esthétique. Elle offre de nombreux espaces de rangement pour vos livres, objets décoratifs et souvenirs.",
+            "largeur_cm": 30,
+            "longueur_cm": 120,
+            "nom_article": "Ludovic",
+            "nom_designer": "Marie Leclerc",
+            "numero_article": "321.987.654",
+            "photo_article": "Ludovic.jpg",
+            "poids_kg": 42,
+            "profondeur_cm": 180,
+            "sous-formulaire": [
+                {
+                    "finition": "chêne naturel",
+                    "nb_dispo": 10,
+                    "prix_euros": 399
+                },
+                {
+                    "finition": "noyer",
+                    "nb_dispo": 7,
+                    "prix_euros": 449
+                }
+            ]
+        },
+        {
+            "description_article": "Cette charmante commode Élise est idéale pour ranger vos vêtements ou vos objets personnels. Ses tiroirs spacieux et son design intemporel en font un choix polyvalent pour toute pièce.",
+            "largeur_cm": 120,
+            "longueur_cm": 90,
+            "nom_article": "Élise",
+            "nom_designer": "Sophie Dupuis",
+            "numero_article": "456.789.123",
+            "photo_article": "Elise.jpg",
+            "poids_kg": 60,
+            "profondeur_cm": 40,
+            "sous-formulaire": [
+                {
+                    "finition": "blanc",
+                    "nb_dispo": 8,
+                    "prix_euros": 699
+                },
+                {
+                    "finition": "noyer",
+                    "nb_dispo": 5,
+                    "prix_euros": 799
+                }
+            ]
+        },
+        {
+            "description_article": "Cette armoire de style baroque est parfaite pour organiser vos vêtements et accessoires. Ces poignets robustes sont idéales pour ouvrir votre armoire en toute serennité.",
+            "largeur_cm": 180,
+            "longueur_cm": 400,
+            "nom_article": "Arno",
+            "nom_designer": "Elsa Hanski",
+            "numero_article": "157.496.556",
+            "photo_article": "Arno.jpg",
+            "poids_kg": 300,
+            "profondeur_cm": 80,
+            "sous-formulaire": [
+                {
+                    "finition": "blanc",
+                    "nb_dispo": 4,
+                    "prix_euros": 1799
+                },
+                {
+                    "finition": "chêne",
+                    "nb_dispo": 15,
+                    "prix_euros": 1899
+                }
+            ]
+        },
+        {
+            "description_article": "Cette élégante étagère murale en bois est à la fois fonctionnelle et esthétique. Elle offre des capacités étonnantes pour ranger tout ce dont vous avez besoin.",
+            "largeur_cm": 60,
+            "longueur_cm": 50,
+            "nom_article": "Javie",
+            "nom_designer": "Marc Repert",
+            "numero_article": "321.987.654",
+            "photo_article": "Javie.jpg",
+            "poids_kg": 34,
+            "profondeur_cm": 10,
+            "sous-formulaire": [
+                {
+                    "finition": "chêne naturel",
+                    "nb_dispo": 10,
+                    "prix_euros": 399
+                },
+                {
+                    "finition": "noyer",
+                    "nb_dispo": 7,
+                    "prix_euros": 449
+                }
+            ]
+        },
+        {
+            "description_article": "Ce porte manteau à cinq branches vous sera agréablement utile pour ranger de manière élégante vos vestes et autres vêtements. Sa couleur apporte une brise de fraicheur et de légèreté à votr logement.",
+            "largeur_cm": 120,
+            "longueur_cm": 90,
+            "nom_article": "Fletche",
+            "nom_designer": "Michel Laursen",
+            "numero_article": "756.619.824",
+            "photo_article": "Fletche.jpg",
+            "poids_kg": 60,
+            "profondeur_cm": 40,
+            "sous-formulaire": [
+                {
+                    "finition": "blanc pur",
+                    "nb_dispo": 8,
+                    "prix_euros": 699
+                },
+                {
+                    "finition": "noyer",
+                    "nb_dispo": 5,
+                    "prix_euros": 799
+                }
+            ]
+        }
+    ]
+}
