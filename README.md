@@ -16,7 +16,7 @@ Hïkěà est une application de gestion de catalogue de meubles et d'articles de
 - 📁 `img/` : Contient les images nécessaires à l'affichage
 - 📁 `data/` : Stockage des fichiers JSON
   - data.json (fusion des deux jeux de données)
-- 📁 `src/` : Code source de l'application
+- 📁 `app/` : Code source de l'application
   - Fichiers principaux (.cpp, .h)
   - Interfaces utilisateur (.ui)
 
