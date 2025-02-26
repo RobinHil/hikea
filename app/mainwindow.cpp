@@ -95,7 +95,7 @@ void MainWindow::francais()
 void MainWindow::anglais()
 {
 
-    if (translator.load(":/i18n/s2_01_en_US"))
+    if (translator.load(":/i18n/hikea_en_US"))
     {
         qApp->installTranslator(&translator);
         ui->retranslateUi(this);
